@@ -9,20 +9,21 @@ This repository showcases the tasks and creative projects I worked on during my 
 
 ## 📁 Project Categories
 
-- **Logo**  
-  Brand identity designs for real and conceptual projects.
-
-- **Poster&Flyer**  
+- **Poster & Flyer**  
   Marketing materials designed for awareness campaigns and promotions.
 
-- **Brochure**  
-  Informative multi-page layouts created for service explanation and client presentations.
+ - **Logo**  
+  Brand identity designs for real and conceptual projects.
+
+  - **Business Card**  
+  Professional and elegant card designs reflecting personal and brand identities.
 
 - **Infographic**  
   Data visualizations that turn complex information into simple visual stories.
 
-- **Business Card**  
-  Professional and elegant card designs reflecting personal and brand identities.
+- **Brochure**  
+  Informative multi-page layouts created for service explanation and client presentations.
+
 
 ---
 
@@ -48,10 +49,27 @@ Key takeaways:
 
 ---
 
+## 📁 My Works
+
+- [Poster Design] (https://github.com/user-attachments/assets/69b77039-e179-4182-80df-90e3a945ed14)
+  
+- [Logo Design] (https://github.com/user-attachments/assets/ec7ad5fe-951f-4d14-82b7-d88f7af6c9af)
+
+- [Business Card] (https://github.com/user-attachments/assets/9d11014d-0ff2-48af-a3fc-46fdb36cbb10)
+
+- [Infographic] (https://github.com/user-attachments/assets/e0d18706-1975-4b95-98d3-8cd58da55e3f)
+
+- [Brochure Design (https://github.com/user-attachments/assets/2860e892-60f7-4980-a7cd-fcf498d2e341)
+
+
+
+
 ## 📫 Connect with Me
 
 👩‍💻 **Varshini Vijayaragavan**  
-🎓 B.Tech IT | Parisutham Institute of Technology & Science (2027)   
+
+🎓 B.Tech IT | Parisutham Institute of Technology & Science (2027)  
+
 🔗 [LinkedIn]https://www.linkedin.com/in/varshiniv07
 ---
 
